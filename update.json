@@ -1,0 +1,12 @@
+{
+  "data":{
+    "file":{
+      "vername":"1.0",
+      "vercode":1,
+      "path":"https://github.com/neotvapp/fonix/releases/download/installer/app-release.apk"
+    },
+    "media":{
+      "news":"Installer for the Fonix app."
+    }
+  }
+}

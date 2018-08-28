@@ -1,2 +1,2 @@
 # fonix
-Fonix app repository
+fonix repository
